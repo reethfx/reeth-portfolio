@@ -4,8 +4,9 @@ export default {
 		"./src/**/*.{astro,js,jsx,ts,tsx}",
 		"./public/index.html",
 	  ],
-	  	theme: {
-		extend: {},
-	},
-	plugins: [],
+    theme: {
+    extend: {},
+  },
+  plugins: [],
 }
+
